@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    
+    <parent>
+        <groupId>com.edeal</groupId>
+        <artifactId>tuto-parent</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+    
+    <artifactId>tuto-ui</artifactId>
+    <packaging>war</packaging>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.edeal</groupId>
+            <artifactId>tuto-core</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-devtools</artifactId>
+            <optional>true</optional>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.webjars.npm/react -->
+        <!--<dependency>-->
+            <!--<groupId>org.webjars.npm</groupId>-->
+            <!--<artifactId>react</artifactId>-->
+            <!--<version>16.2.0</version>-->
+        <!--</dependency>-->
+            <!--<dependency>-->
+                <!--<groupId>org.webjars</groupId>-->
+                <!--<artifactId>jquery</artifactId>-->
+                <!--<version>3.2.1</version>-->
+            <!--</dependency>-->
+            <!--<dependency>-->
+                <!--<groupId>com.okta.spring</groupId>-->
+                <!--<artifactId>okta-spring-boot-starter</artifactId>-->
+                <!--<version>0.2.0</version>-->
+            <!--</dependency>-->
+        <!--<dependency>-->
+            <!--<groupId>com.stormpath.spring</groupId>-->
+            <!--<artifactId>stormpath-default-spring-boot-starter</artifactId>-->
+            <!--<version>1.0.RC9.2</version>-->
+        <!--</dependency>-->
+    </dependencies>
+    
+</project>

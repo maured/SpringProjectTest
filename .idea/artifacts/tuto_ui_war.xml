@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tuto-ui:war">
+    <output-path>$PROJECT_DIR$/tuto-ui/target</output-path>
+    <root id="archive" name="tuto-ui-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="tuto-ui:war exploded" />
+    </root>
+  </artifact>
+</component>

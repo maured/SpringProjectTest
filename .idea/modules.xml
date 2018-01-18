@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringProjectTest.iml" filepath="$PROJECT_DIR$/.idea/SpringProjectTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuto-core/tuto-core.iml" filepath="$PROJECT_DIR$/tuto-core/tuto-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuto-dao/tuto-dao.iml" filepath="$PROJECT_DIR$/tuto-dao/tuto-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuto-ui/tuto-ui.iml" filepath="$PROJECT_DIR$/tuto-ui/tuto-ui.iml" />
+    </modules>
+  </component>
+</project>
