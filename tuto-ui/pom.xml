@@ -44,11 +44,6 @@
                 <!--<artifactId>jquery</artifactId>-->
                 <!--<version>3.2.1</version>-->
             <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>com.okta.spring</groupId>-->
-                <!--<artifactId>okta-spring-boot-starter</artifactId>-->
-                <!--<version>0.2.0</version>-->
-            <!--</dependency>-->
         <!--<dependency>-->
             <!--<groupId>com.stormpath.spring</groupId>-->
             <!--<artifactId>stormpath-default-spring-boot-starter</artifactId>-->

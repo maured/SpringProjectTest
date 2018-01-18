@@ -1,7 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ba036aa-48b4-476f-9a7a-96caa70d4b0c" name="Default" comment="" />
+    <list default="true" id="5ba036aa-48b4-476f-9a7a-96caa70d4b0c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32606adf40fe2dfc68dd5522955422e7361fc687" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5be1fa1b460550864eb3b01d158e71f170666dfb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d1aec7cecb14c38369fca5a4c1d5a4833af6393" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d5c7187d7cf11722ef93ad12e4cb020b9704630" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67d52e52028505288a2c004de676dc86a53da285" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8b002802b8ff2d8d0ce689f68477e5f2582f6020" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90e5df6db195775491de909b798c59b2858ef05c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c48569cb653b38eb0a05bf8c5a76e75537a3d48" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0ceed5624da5e1239a8a3180547a410e7554103" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/dbd2d910425c9e30b785b158d83300a179c4399e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/ddd47a1af644545b5f86af4435fa79a33105c1e6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-core/target/classes/com/edeal/MainCore.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-core/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-core/target/tuto-core-1.0.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/old/server/MainDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/old/server/bean/ClasseBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/old/server/impl/ClasseDAOImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/old/server/interfaces/ClasseDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/old/server/jdbc/DAOConfigurationException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/old/server/jdbc/DAOException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/old/server/jdbc/DAOFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/old/server/jdbc/DAOUtilitaire.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/server/bean/ClasseBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/server/impl/ClasseDAOImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/server/interfaces/ClasseDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/server/jdbc/ConnexionBDD.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/server/jdbc/DeconnexionBDD.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/server/jdbc/ExtractionBDD.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/server/jdbc/MyExtractionExeption.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/server/jdbc/QuerysUser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/server/jdbc/SetUpConnectivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/com/edeal/server/main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/classes/dao.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-dao/target/tuto-dao-1.0.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/classes/com/edeal/ui/Application.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/classes/static/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/classes/static/UserAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/classes/templates/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/classes/com/edeal/ui/Application.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/classes/com/edeal/ui/Greeting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/classes/com/edeal/ui/GreetingController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/classes/static/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/classes/static/UserAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/classes/templates/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/asap-2.0.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/bcpkix-jdk15on-1.56.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/bcprov-jdk15on-1.56.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/classmate-1.3.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/core-js-2.5.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/encoding-0.1.12.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/fbjs-0.9.0-alpha.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/fbjs-css-vars-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/groovy-2.4.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/hibernate-validator-5.3.6.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/httpclient-4.5.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/httpcore-4.4.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/iconv-lite-0.4.15.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/is-stream-1.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/isomorphic-fetch-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.8.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.8.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.8.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/javassist-3.21.0-GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.25.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/jjwt-0.5.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/joda-time-2.9.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/jquery-3.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/js-tokens-3.0.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/json-20140107.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/jul-to-slf4j-1.7.25.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/log4j-over-slf4j-1.7.25.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/logback-classic-1.1.11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/logback-core-1.1.11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/loose-envify-1.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/node-fetch-1.7.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/object-assign-4.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/ognl-3.0.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/okta-spring-boot-starter-0.2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/okta-spring-config-0.2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/okta-spring-security-oauth2-0.2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/org.apache.oltu.oauth2.authzserver-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/org.apache.oltu.oauth2.common-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/org.apache.oltu.oauth2.resourceserver-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/postgresql-9.4.1212.jre7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/promise-7.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/prop-types-15.6.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/react-16.2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/setimmediate-1.0.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.25.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/snakeyaml-1.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-boot-1.5.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-boot-actuator-1.5.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-boot-autoconfigure-1.5.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-1.5.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-actuator-1.5.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-logging-1.5.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-security-1.5.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-thymeleaf-1.5.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-tomcat-1.5.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-web-1.5.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-context-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-core-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-security-config-4.2.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-security-core-4.2.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-security-jwt-1.0.8.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-security-oauth2-2.0.14.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-security-web-4.2.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-web-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/stormpath-default-spring-boot-starter-1.0.RC9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/stormpath-sdk-api-1.0.RC9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/stormpath-sdk-httpclient-1.0.RC9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/stormpath-sdk-impl-1.0.RC9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/stormpath-sdk-oauth-1.0.RC9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/stormpath-sdk-servlet-1.0.RC9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/stormpath-spring-1.0.RC9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/stormpath-spring-boot-starter-1.0.RC9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/stormpath-spring-security-1.0.RC9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/stormpath-spring-security-spring-boot-starter-1.0.RC9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/stormpath-spring-security-webmvc-1.0.RC9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/stormpath-spring-security-webmvc-spring-boot-starter-1.0.RC9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/stormpath-spring-webmvc-1.0.RC9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/stormpath-thymeleaf-spring-boot-starter-1.0.RC9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/stormpath-webmvc-spring-boot-starter-1.0.RC9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/thymeleaf-2.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/thymeleaf-layout-dialect-1.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/thymeleaf-spring4-2.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/tomcat-annotations-api-8.5.23.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/tomcat-embed-core-8.5.23.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/tomcat-embed-el-8.5.23.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/tomcat-embed-websocket-8.5.23.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/tuto-core-1.0.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/tuto-dao-1.0.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/ua-parser-js-0.7.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/unbescape-1.1.0.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tuto-ui/target/tuto-ui-1.0.0-SNAPSHOT/WEB-INF/lib/whatwg-fetch-2.0.3.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tuto-ui/pom.xml" afterPath="$PROJECT_DIR$/tuto-ui/pom.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/tuto-ui/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/tuto-dao/target/" />
@@ -34,9 +198,11 @@
       <file leaf-file-name="MainCore.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tuto-core/src/main/java/com/edeal/MainCore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,8 +210,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="42" column="21" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="42" selection-end-column="21" />
+            <state relative-caret-position="646">
+              <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -54,15 +220,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Application.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tuto-ui/src/main/java/com/edeal/ui/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="255">
               <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
                 <element signature="e#447#448#0" expanded="true" />
                 <element signature="e#500#501#0" expanded="true" />
               </folding>
@@ -106,11 +270,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tuto-ui/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="50" column="32" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="50" selection-end-column="32" />
+            <state relative-caret-position="765">
+              <caret line="45" column="32" lean-forward="false" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -132,7 +296,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tuto-core/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="185">
               <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding />
             </state>
@@ -174,6 +338,9 @@
     <replaceStrings>
       <replace />
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -232,8 +399,8 @@
         <option value="$PROJECT_DIR$/tuto-ui/src/main/java/com/edeal/ui/GreetingController.java" />
         <option value="$PROJECT_DIR$/tuto-ui/src/main/java/com/edeal/ui/Greeting.java" />
         <option value="$PROJECT_DIR$/tuto-ui/src/main/java/com/edeal/ui/Application.java" />
-        <option value="$PROJECT_DIR$/tuto-ui/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tuto-ui/pom.xml" />
       </list>
     </option>
   </component>
@@ -295,7 +462,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -303,47 +472,10 @@
               <item name="SpringProjectTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringProjectTest" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SpringProjectTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringProjectTest" type="462c0819:PsiDirectoryNode" />
-              <item name="tuto-ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringProjectTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringProjectTest" type="462c0819:PsiDirectoryNode" />
-              <item name="tuto-ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringProjectTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringProjectTest" type="462c0819:PsiDirectoryNode" />
-              <item name="tuto-ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringProjectTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringProjectTest" type="462c0819:PsiDirectoryNode" />
-              <item name="tuto-ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringProjectTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringProjectTest" type="462c0819:PsiDirectoryNode" />
-              <item name="tuto-ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -620,11 +752,12 @@
       <workItem from="1516268884528" duration="952000" />
       <workItem from="1516270203742" duration="209000" />
       <workItem from="1516270433878" duration="4505000" />
+      <workItem from="1516286425108" duration="1396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209887000" />
+    <option name="totallyTimeSpent" value="211283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
@@ -645,11 +778,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.092042185" sideWeight="0.7542644" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45349953" sideWeight="0.7542644" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32981783" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5043145" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2153518" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21748401" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -700,6 +833,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -913,7 +1072,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -963,7 +1124,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -971,27 +1131,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tuto-core/src/main/java/com/edeal/MainCore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tuto-core/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tuto-dao/pom.xml">
@@ -1043,21 +1183,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tuto-ui/pom.xml">
+    <entry file="file://$PROJECT_DIR$/tuto-core/src/main/java/com/edeal/MainCore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="50" column="32" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="50" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/tuto-core/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="42" column="21" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="42" selection-end-column="21" />
+        <state relative-caret-position="185">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -1067,16 +1206,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tuto-ui/src/main/java/com/edeal/ui/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="255">
           <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
             <element signature="e#447#448#0" expanded="true" />
             <element signature="e#500#501#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuto-ui/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="32" lean-forward="false" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
       </provider>
     </entry>
   </component>

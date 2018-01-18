@@ -1,10 +1,6 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-G
-tuto-core\tuto-core.iml,9\0\90e5df6db195775491de909b798c59b2858ef05c
-h
-8tuto-dao\src\main\java\com\edeal\old\server\MainDao.java,3\2\32606adf40fe2dfc68dd5522955422e7361fc687
 @
 tuto-dao\pom.xml,b\0\b0ceed5624da5e1239a8a3180547a410e7554103
 j
@@ -19,7 +15,7 @@ A
 tuto-core\pom.xml,d\d\ddd47a1af644545b5f86af4435fa79a33105c1e6
 f
 6tuto-ui\src\main\java\com\edeal\ui\HomeController.java,5\b\5be1fa1b460550864eb3b01d158e71f170666dfb
-?
-tuto-ui\pom.xml,8\b\8b002802b8ff2d8d0ce689f68477e5f2582f6020
 c
 3tuto-ui\src\main\java\com\edeal\ui\Application.java,5\d\5d5c7187d7cf11722ef93ad12e4cb020b9704630
+?
+tuto-ui\pom.xml,8\b\8b002802b8ff2d8d0ce689f68477e5f2582f6020
