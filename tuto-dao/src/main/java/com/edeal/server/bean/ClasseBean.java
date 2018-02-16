@@ -1,14 +1,18 @@
 package com.edeal.server.bean;
 
+import com.sun.javafx.beans.IDProperty;
+
 import java.io.Serializable;
 
 //maTableBean
-public class ClasseBean implements Serializable {
+
+public class ClasseBean implements Serializable{
 	
 	private int classeId;
 	private String classeName;
-
+	
 	public ClasseBean() {
+		
 	}
 	
 	public int getClasseId() {
